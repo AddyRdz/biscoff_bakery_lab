@@ -1,4 +1,3 @@
-[![General Assembly Logo](/ga_cog.png)](https://generalassemb.ly)
 # Needs to update setup instructions and to add starter files
 # Biscoff Bakery
 
