@@ -1,4 +1,3 @@
-# Needs to update setup instructions and to add starter files
 # Biscoff Bakery
 
 ![](https://i.ytimg.com/vi/CIGk1sgCfSg/maxresdefault.jpg)
