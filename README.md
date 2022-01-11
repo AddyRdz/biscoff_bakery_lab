@@ -18,8 +18,6 @@ A new bakery specializing in Biscoff-inspired sweets is opening up soon and has 
 
 ## Getting Started
 
-You can find the starter code for this morning's lab in `student_labs/morning/biscoff-starter` -- work in that folder!
-
 #### Provided in the starter code
 1. `server.js` has a basic express server up and running, along with routes for *index* and *show*
 
